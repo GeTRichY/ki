@@ -161,9 +161,10 @@ hash CC42B06437041B607842F20C242CD4E1375F52B03CB83E468F85250EB6339D5F https://cr
 hash 92593D9C9545F85A4D5A96860D512DA37F45352B3C6D3FF9E33B64ADFF083BBE https://crypto.org/explorer/croeseid4/tx/92593D9C9545F85A4D5A96860D512DA37F45352B3C6D3FF9E33B64ADFF083BBE
 hash 62F47051DB846657090B98CFB0F349086B6D1FF8B8A695C91E79C6195C3EAD6B https://crypto.org/explorer/croeseid4/tx/62F47051DB846657090B98CFB0F349086B6D1FF8B8A695C91E79C6195C3EAD6B
 These are working quite nicely
+
 13) But when i try to check my balances again i just get this output
 $ rly q balance kichain-t-4
-665921utki
+   665921utki
 $ rly q balance testnet-croeseid-4
-538385381basetcro
+  538385381basetcro
 Looks like i don`t recive tokens , i don`t know why , i try to fix it a lot of times , i spend half of week , but I can`t. I hope hash of my transaction can hepl you .
